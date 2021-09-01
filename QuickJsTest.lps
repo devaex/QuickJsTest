@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Debug"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="QuickJsTest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos X="5" Y="34"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\..\..\Lib\mORMot2\trunk\src\lib\mormot.lib.quickjs.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="251"/>
+        <CursorPos X="3" Y="270"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="QuickJsTest.lpr"/>
+        <Caret Line="11" Column="21"/>
+      </Position1>
+      <Position2>
+        <Filename Value="QuickJsTest.lpr"/>
+        <Caret Line="20" Column="18"/>
+      </Position2>
+      <Position3>
+        <Filename Value="QuickJsTest.lpr"/>
+        <Caret Line="32" Column="51"/>
+      </Position3>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
